@@ -1,0 +1,2 @@
+# RVSKILLS_SEM1
+Python_AI_ML
